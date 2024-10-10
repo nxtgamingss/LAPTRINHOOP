@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\bai1th2windowform\bin\Debug\bai1th2windowform.exe.config
+C:\Users\ASUS\source\repos\bai1th2windowform\bin\Debug\bai1th2windowform.exe
+C:\Users\ASUS\source\repos\bai1th2windowform\bin\Debug\bai1th2windowform.pdb
+C:\Users\ASUS\source\repos\bai1th2windowform\obj\Debug\bai1th2windowform.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\bai1th2windowform\obj\Debug\bai1th2windowform.Form1.resources
+C:\Users\ASUS\source\repos\bai1th2windowform\obj\Debug\bai1th2windowform.Properties.Resources.resources
+C:\Users\ASUS\source\repos\bai1th2windowform\obj\Debug\bai1th2windowform.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\bai1th2windowform\obj\Debug\bai1th2windowform.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\bai1th2windowform\obj\Debug\bai1th2windowform.exe
+C:\Users\ASUS\source\repos\bai1th2windowform\obj\Debug\bai1th2windowform.pdb

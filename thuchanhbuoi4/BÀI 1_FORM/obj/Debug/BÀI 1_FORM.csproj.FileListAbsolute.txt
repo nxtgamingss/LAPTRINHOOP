@@ -1,0 +1,10 @@
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi4\BÀI 1_FORM\bin\Debug\BÀI 1_FORM.exe.config
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi4\BÀI 1_FORM\bin\Debug\BÀI 1_FORM.exe
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi4\BÀI 1_FORM\bin\Debug\BÀI 1_FORM.pdb
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi4\BÀI 1_FORM\obj\Debug\BÀI 1_FORM.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi4\BÀI 1_FORM\obj\Debug\BÀI_1_FORM.Form1.resources
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi4\BÀI 1_FORM\obj\Debug\BÀI_1_FORM.Properties.Resources.resources
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi4\BÀI 1_FORM\obj\Debug\BÀI 1_FORM.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi4\BÀI 1_FORM\obj\Debug\BÀI 1_FORM.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi4\BÀI 1_FORM\obj\Debug\BÀI 1_FORM.exe
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi4\BÀI 1_FORM\obj\Debug\BÀI 1_FORM.pdb

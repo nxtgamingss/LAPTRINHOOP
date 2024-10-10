@@ -1,0 +1,10 @@
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi3\bai4wdf\bai4wdf\bin\Debug\bai4wdf.exe.config
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi3\bai4wdf\bai4wdf\bin\Debug\bai4wdf.exe
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi3\bai4wdf\bai4wdf\bin\Debug\bai4wdf.pdb
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi3\bai4wdf\bai4wdf\obj\Debug\bai4wdf.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi3\bai4wdf\bai4wdf\obj\Debug\bai4wdf.Form1.resources
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi3\bai4wdf\bai4wdf\obj\Debug\bai4wdf.Properties.Resources.resources
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi3\bai4wdf\bai4wdf\obj\Debug\bai4wdf.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi3\bai4wdf\bai4wdf\obj\Debug\bai4wdf.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi3\bai4wdf\bai4wdf\obj\Debug\bai4wdf.exe
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi3\bai4wdf\bai4wdf\obj\Debug\bai4wdf.pdb

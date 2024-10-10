@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi3\Phanso_WF\obj\Debug\Phanso_WF.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi3\Phanso_WF\obj\Debug\Phanso_WF.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi3\Phanso_WF\bin\Debug\Phanso_WF.exe.config
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi3\Phanso_WF\bin\Debug\Phanso_WF.exe
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi3\Phanso_WF\bin\Debug\Phanso_WF.pdb
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi3\Phanso_WF\obj\Debug\Phanso_WF.exe
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi3\Phanso_WF\obj\Debug\Phanso_WF.pdb

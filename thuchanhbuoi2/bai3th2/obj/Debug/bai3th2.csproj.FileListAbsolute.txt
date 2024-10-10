@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\bai3th2\bin\Debug\bai3th2.exe.config
+C:\Users\ASUS\source\repos\bai3th2\bin\Debug\bai3th2.exe
+C:\Users\ASUS\source\repos\bai3th2\bin\Debug\bai3th2.pdb
+C:\Users\ASUS\source\repos\bai3th2\obj\Debug\bai3th2.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\bai3th2\obj\Debug\bai3th2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\bai3th2\obj\Debug\bai3th2.exe
+C:\Users\ASUS\source\repos\bai3th2\obj\Debug\bai3th2.pdb

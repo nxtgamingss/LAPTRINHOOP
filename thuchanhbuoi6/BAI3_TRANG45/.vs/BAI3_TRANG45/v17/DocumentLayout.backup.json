@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive - Viet-Hung Industrial University\\L\u1EACP TR\u00CCNH  OOP\\thuchanhbuoi6\\BAI3_TRANG45\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F94CB90-070C-4FB1-8515-BC7C5BABA33B}|BAI3_TRANG45.csproj|c:\\users\\asus\\onedrive - viet-hung industrial university\\l\u1EADp tr\u00ECnh  oop\\thuchanhbuoi6\\bai3_trang45\\congnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F94CB90-070C-4FB1-8515-BC7C5BABA33B}|BAI3_TRANG45.csproj|solutionrelative:congnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F94CB90-070C-4FB1-8515-BC7C5BABA33B}|BAI3_TRANG45.csproj|c:\\users\\asus\\onedrive - viet-hung industrial university\\l\u1EADp tr\u00ECnh  oop\\thuchanhbuoi6\\bai3_trang45\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F94CB90-070C-4FB1-8515-BC7C5BABA33B}|BAI3_TRANG45.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F94CB90-070C-4FB1-8515-BC7C5BABA33B}|BAI3_TRANG45.csproj|c:\\users\\asus\\onedrive - viet-hung industrial university\\l\u1EADp tr\u00ECnh  oop\\thuchanhbuoi6\\bai3_trang45\\thongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F94CB90-070C-4FB1-8515-BC7C5BABA33B}|BAI3_TRANG45.csproj|solutionrelative:thongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CongNhan.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - Viet-Hung Industrial University\\L\u1EACP TR\u00CCNH  OOP\\thuchanhbuoi6\\BAI3_TRANG45\\CongNhan.cs",
+              "RelativeDocumentMoniker": "CongNhan.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - Viet-Hung Industrial University\\L\u1EACP TR\u00CCNH  OOP\\thuchanhbuoi6\\BAI3_TRANG45\\CongNhan.cs",
+              "RelativeToolTip": "CongNhan.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:09:41.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - Viet-Hung Industrial University\\L\u1EACP TR\u00CCNH  OOP\\thuchanhbuoi6\\BAI3_TRANG45\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - Viet-Hung Industrial University\\L\u1EACP TR\u00CCNH  OOP\\thuchanhbuoi6\\BAI3_TRANG45\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:09:12.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Thongtin.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - Viet-Hung Industrial University\\L\u1EACP TR\u00CCNH  OOP\\thuchanhbuoi6\\BAI3_TRANG45\\Thongtin.cs",
+              "RelativeDocumentMoniker": "Thongtin.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - Viet-Hung Industrial University\\L\u1EACP TR\u00CCNH  OOP\\thuchanhbuoi6\\BAI3_TRANG45\\Thongtin.cs",
+              "RelativeToolTip": "Thongtin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:48:34.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\bai1th2windowform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B717E1BF-D1E9-4C2F-8BD7-E9148D1F9D91}|bai1th2windowform.csproj|c:\\users\\asus\\source\\repos\\bai1th2windowform\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B717E1BF-D1E9-4C2F-8BD7-E9148D1F9D91}|bai1th2windowform.csproj|solutionrelative:diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B717E1BF-D1E9-4C2F-8BD7-E9148D1F9D91}|bai1th2windowform.csproj|C:\\Users\\ASUS\\source\\repos\\bai1th2windowform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B717E1BF-D1E9-4C2F-8BD7-E9148D1F9D91}|bai1th2windowform.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B717E1BF-D1E9-4C2F-8BD7-E9148D1F9D91}|bai1th2windowform.csproj|C:\\Users\\ASUS\\source\\repos\\bai1th2windowform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B717E1BF-D1E9-4C2F-8BD7-E9148D1F9D91}|bai1th2windowform.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Diem.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\bai1th2windowform\\Diem.cs",
+              "RelativeDocumentMoniker": "Diem.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\bai1th2windowform\\Diem.cs",
+              "RelativeToolTip": "Diem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:23:35.901Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\bai1th2windowform\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\bai1th2windowform\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAhwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:19:34.233Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\bai1th2windowform\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\bai1th2windowform\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:18:38.983Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi4\bài 4\bin\Debug\bài 4.exe.config
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi4\bài 4\bin\Debug\bài 4.exe
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi4\bài 4\bin\Debug\bài 4.pdb
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi4\bài 4\obj\Debug\bài 4.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi4\bài 4\obj\Debug\bài 4.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi4\bài 4\obj\Debug\bài 4.exe
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi4\bài 4\obj\Debug\bài 4.pdb

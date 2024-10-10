@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\bai1th2console\bin\Debug\bai1th2console.exe.config
+C:\Users\ASUS\source\repos\bai1th2console\bin\Debug\bai1th2console.exe
+C:\Users\ASUS\source\repos\bai1th2console\bin\Debug\bai1th2console.pdb
+C:\Users\ASUS\source\repos\bai1th2console\obj\Debug\bai1th2console.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\bai1th2console\obj\Debug\bai1th2console.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\bai1th2console\obj\Debug\bai1th2console.exe
+C:\Users\ASUS\source\repos\bai1th2console\obj\Debug\bai1th2console.pdb

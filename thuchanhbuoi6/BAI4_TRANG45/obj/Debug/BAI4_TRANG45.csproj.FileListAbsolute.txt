@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi6\BAI4_TRANG45\bin\Debug\BAI4_TRANG45.exe.config
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi6\BAI4_TRANG45\bin\Debug\BAI4_TRANG45.exe
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi6\BAI4_TRANG45\bin\Debug\BAI4_TRANG45.pdb
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi6\BAI4_TRANG45\obj\Debug\BAI4_TRANG45.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi6\BAI4_TRANG45\obj\Debug\BAI4_TRANG45.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi6\BAI4_TRANG45\obj\Debug\BAI4_TRANG45.exe
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi6\BAI4_TRANG45\obj\Debug\BAI4_TRANG45.pdb

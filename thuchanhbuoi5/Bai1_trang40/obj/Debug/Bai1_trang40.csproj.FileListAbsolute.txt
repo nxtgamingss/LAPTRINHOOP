@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi5\Bai1_trang40\bin\Debug\Bai1_trang40.exe.config
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi5\Bai1_trang40\bin\Debug\Bai1_trang40.exe
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi5\Bai1_trang40\bin\Debug\Bai1_trang40.pdb
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi5\Bai1_trang40\obj\Debug\Bai1_trang40.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi5\Bai1_trang40\obj\Debug\Bai1_trang40.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi5\Bai1_trang40\obj\Debug\Bai1_trang40.exe
+C:\Users\ASUS\OneDrive - Viet-Hung Industrial University\LẬP TRÌNH  OOP\thuchanhbuoi5\Bai1_trang40\obj\Debug\Bai1_trang40.pdb

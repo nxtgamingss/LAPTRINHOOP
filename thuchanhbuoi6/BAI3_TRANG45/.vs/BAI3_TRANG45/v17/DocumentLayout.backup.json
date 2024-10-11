@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{7F94CB90-070C-4FB1-8515-BC7C5BABA33B}|BAI3_TRANG45.csproj|solutionrelative:congnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F94CB90-070C-4FB1-8515-BC7C5BABA33B}|BAI3_TRANG45.csproj|c:\\users\\asus\\onedrive - viet-hung industrial university\\l\u1EADp tr\u00ECnh  oop\\thuchanhbuoi6\\bai3_trang45\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F94CB90-070C-4FB1-8515-BC7C5BABA33B}|BAI3_TRANG45.csproj|C:\\Users\\ASUS\\OneDrive - Viet-Hung Industrial University\\L\u1EACP TR\u00CCNH  OOP\\thuchanhbuoi6\\BAI3_TRANG45\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F94CB90-070C-4FB1-8515-BC7C5BABA33B}|BAI3_TRANG45.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F94CB90-070C-4FB1-8515-BC7C5BABA33B}|BAI3_TRANG45.csproj|c:\\users\\asus\\onedrive - viet-hung industrial university\\l\u1EADp tr\u00ECnh  oop\\thuchanhbuoi6\\bai3_trang45\\thongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F94CB90-070C-4FB1-8515-BC7C5BABA33B}|BAI3_TRANG45.csproj|C:\\Users\\ASUS\\OneDrive - Viet-Hung Industrial University\\L\u1EACP TR\u00CCNH  OOP\\thuchanhbuoi6\\BAI3_TRANG45\\thongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F94CB90-070C-4FB1-8515-BC7C5BABA33B}|BAI3_TRANG45.csproj|solutionrelative:thongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "CongNhan.cs",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive - Viet-Hung Industrial University\\L\u1EACP TR\u00CCNH  OOP\\thuchanhbuoi6\\BAI3_TRANG45\\CongNhan.cs",
               "RelativeToolTip": "CongNhan.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T15:09:41.132Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "Person.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T15:09:12.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T15:09:12.85Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Thongtin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T13:48:34.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T13:48:34.239Z"
             }
           ]
         }
